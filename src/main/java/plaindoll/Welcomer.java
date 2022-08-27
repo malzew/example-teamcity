@@ -12,6 +12,6 @@ public class Welcomer{
 	}
 
 	public String sayGoodbyeHunter(){
-		return "Goodbye hunter.";
+		return "Goodbye, hunter, and have fun.";
 	}
 }
